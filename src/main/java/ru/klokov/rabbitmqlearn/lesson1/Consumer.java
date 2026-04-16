@@ -1,4 +1,4 @@
-package simple;
+package ru.klokov.rabbitmqlearn.lesson1;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
